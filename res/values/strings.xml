@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Login Melalui PHP</string>
+    		<string name="txtPesan">Silahkan Login Dulu</string>
+			<string name="txtUser">Username</string>
+			<string name="txtPass">Password</string>
+			<string name="btnLogin">Login</string>
+			<string name="btnSignUp">Sign Up</string>
+</resources>
